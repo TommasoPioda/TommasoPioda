@@ -19,6 +19,8 @@ Designing an adaptive version of the [MASTER DAPT trial](https://www.nejm.org/do
 
 **Core interests:** causal inference · Bayesian methods · ML for healthcare · adaptive experimentation
 
+---
+
 ## 🙋🏻‍♂️ A bit about me
 - I have a dog.
 - A coffe person.
