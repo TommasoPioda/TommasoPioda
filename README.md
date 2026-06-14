@@ -30,7 +30,6 @@ Designing an adaptive version of the [MASTER DAPT trial](https://www.nejm.org/do
 
 ## 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tommasopioda.jobsearch@gmail.com)
+Contact me on Linkedin
 
 Open to **ML/Data Science internships** — especially in healthcare AI, causal ML, or applied research.
