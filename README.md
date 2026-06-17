@@ -1,35 +1,9 @@
-# Hi, I'm Tommaso 👋
+# Hi there! I'm Tommaso 👋
 
-**Data Science student @ SUPSI** · GPA 5.17/6.0 · Based in Switzerland 🇨🇭
+Data Science & AI student @ SUPSI, Switzerland, fascinated by causal inference and its applications in healthcare and adaptive experimentation.
 
----
-
-## 🔬 What I'm working on
-
-**Bachelor Thesis — Adaptive Clinical Trial Design with Causal ML**  
-Designing an adaptive version of the [MASTER DAPT trial](https://www.nejm.org/doi/full/10.1056/NEJMoa2108749) — a 4,500-patient multicenter RCT on dual antiplatelet therapy — using causal meta-learners (X-Learner, DR-Learner) to estimate heterogeneous treatment effects and reduce required sample size without losing statistical power.
-
-> *Goal: same accuracy as traditional methods, fewer patients exposed to suboptimal treatment.*
-
----
-
-## 🛠️ Tech Stack
-
-**Tools**: Python · PyTorch · scikit-learn · SQL · Docker · Git
-
-**Core interests:** causal inference · Bayesian methods · ML for healthcare · adaptive experimentation
-
----
-
-## 🙋🏻‍♂️ A bit about me
-- I have a dog.
-- A coffe person.
-- I built a tank made of cardboard that you can put on a bycicle.
-
----
-
-## 📫 Get in touch
-
-Contact me on Linkedin
-
-Open to **ML/Data Science internships** — especially in healthcare AI, causal ML, or applied research.
+- 🔬 Working on my Bachelor Thesis: Adaptive Clinical Trial Design with Causal ML (X-Learner, DR-Learner) on a 4,500-patient RCT
+- 🌱 Currently deepening my knowledge of Bayesian methods and ML for healthcare
+- 💬 Ask me about causal inference, Python, or how I built a cardboard tank for a bicycle
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tommaso-pioda) · tommaso.pioda@gmail.com
+- ⚡ Fun fact: my GPA is 5.17/6.0 and I still think coffee is the real optimization algorithm
