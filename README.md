@@ -6,4 +6,4 @@ Data Science & AI student @ SUPSI, Switzerland, fascinated by causal inference a
 - 🌱 Currently deepening my knowledge of Bayesian methods and ML for healthcare
 - 💬 Ask me about causal inference, Python, or how I built a cardboard tank for a bicycle
 - 📫 How to reach me: tommasopioda.jobsearch@gmail.com
-- ⚡ Fun fact: my GPA is 5.17/6.0 and I still think coffee is the real optimization algorithm
+- ⚡ Fun fact: my GPA is 5.23/6.0 and I still think coffee is the real optimization algorithm
