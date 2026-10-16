@@ -1,6 +1,6 @@
 # Hi there! I'm Tommaso 👋
 
-Data Science & AI student @ SUPSI, Switzerland, fascinated by causal inference and its applications in healthcare and adaptive experimentation.
+Data Science & AI student @ SUPSI, Switzerland, fascinated by ML applications in healthcare and in the energy field adaptive experimentation.
 
 - 🔬 Working at HSLU to complete my Civil Service time as researcher for the Heat Storage Department
 - 🌱 Currently deepening my knowledge in full Stack Developing
